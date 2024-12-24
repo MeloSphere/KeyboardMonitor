@@ -1,0 +1,30 @@
+{
+    "display": {
+        "font_name": "Arial Bold",
+        "font_size": 28,
+        "max_chars": 20,
+        "text_color": "white",
+        "bg_color": "systemTransparent",
+        "opacity": 0.9
+    },
+    "window": {
+        "width": 400,
+        "height": 60,
+        "padding_x": 10,
+        "padding_y": 5
+    },
+    "performance": {
+        "update_delay": 2,
+        "topmost_check_interval": 100
+    },
+    "history": {
+        "enabled": true,
+        "max_length": 5
+    },
+    "fade_effect": {
+        "interval": 100,
+        "duration": 2.0,
+        "step": 0.1,
+        "enabled": true
+    }
+}
